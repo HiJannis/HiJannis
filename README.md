@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jannis
+- 👀 I’m interested in Angular, Typescript, Java, Spring
+- 💞️ I’m a softwaredeveloper for the LIBAL Deutschland GmbH
